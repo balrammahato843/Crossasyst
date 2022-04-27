@@ -10,7 +10,7 @@ class child extends Parent
 {
    void m2()
    {
-       System.out.println("child");
+       System.out.println("This is child");
    }    
 }
 class Test
